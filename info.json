@@ -1,11 +1,11 @@
 {
- "name": "what-is-it-used-for", 
- "version": "1.1.5", 
- "factorio_version": "0.14",
- "title": "What is it used for?", 
- "author": "Mr Doomah", 
- "contact": "http://www.factorioforums.com/forum/memberlist.php?mode=viewprofile&u=7604", 
+ "name": "what_is_it_used_for_15", 
+ "version": "1.0.1", 
+ "factorio_version": "0.15",
+ "title": "What is it used for? 0.15", 
+ "author": "Instantae", 
+ "contact": "", 
  "homepage": "", 
- "description": "Inspects an item and tells you exactly what recipes it is used in.", 
+ "description": "0.15 port of Mr Doomah's mod", 
  "dependencies": []
 }
